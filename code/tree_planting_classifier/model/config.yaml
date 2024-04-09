@@ -1,0 +1,10 @@
+input_features:
+    -
+        name: message2
+        type: text
+        encoder: 
+            type: parallel_cnn
+output_features:
+    -
+        name: label
+        type: binary

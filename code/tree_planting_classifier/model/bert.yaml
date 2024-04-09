@@ -1,0 +1,14 @@
+input_features:
+    -
+        name: message 
+        type: text
+        encoder: bert
+        preprocessing:
+            word_tokenizer: english_tokenize_remove_stopwords
+            padding_symbol: '[PAD]'
+            unknown_symbol: '[UNK]'
+output_features:
+    -
+        name: label
+        type: binary
+training: {batch_size: 8, learning_rate: 0.00002, decay: True, trainable: True}
