@@ -6,9 +6,9 @@ List of code scpripts (Goolge Colab Jypter Notebook)\
 > 3. topics_over_time.ipynb: topic modeling with time
 > 4. tweets_country_assignment.ipynb: assign country information to each Twitter user
 > 5. [tree_planting_classifier]
->> Ludwig_treeplanting_classifer.ipynb: text classifier for tree planting related tweets
->>[data]: datasets for training and testing
->>[model]: Ludwig model configuration files
+  >> Ludwig_treeplanting_classifer.ipynb: text classifier for tree planting related tweets
+  >>[data]: datasets for training and testing
+  >>[model]: Ludwig model configuration files
 
 List of figures produced from this project\
 [figures]:
