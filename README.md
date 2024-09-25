@@ -12,5 +12,5 @@ List of code scpripts (Goolge Colab Jypter Notebook)\
 
 List of figures produced from this project\
 [figures]:
-> 1. Figure 1-6: Figures in the main text 
+> 1. Figure 1-8: Figures in the main text 
 > 2. Figure A-M: Figures in the appendix
